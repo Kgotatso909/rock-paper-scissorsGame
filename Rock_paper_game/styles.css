@@ -1,0 +1,7 @@
+#displayArea{
+    -fx-max-height: 80px;
+    -fx-max-width: 400px;
+    -fx-font-family: "consolas";
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+}
